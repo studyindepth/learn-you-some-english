@@ -3,7 +3,7 @@
 ## [Oppose /əˈpəʊz/](http://www.oxfordlearnersdictionaries.com/definition/english/oppose?q=oppose)
 1. To disagree strongly with somebody's plan, policy, and try to change and prevent it from succeeding.
   * **To oppose something/somebody**  *This party would bitterly oppose the re-intruduction of death penalty.*
-  * ** Oppose somebody/something doing something *I would oppose changing the law*
+  * **Oppose somebody/something doing something *I would oppose changing the law*
 
 ## [Opposed /əˈpəʊzd/](http://www.oxfordlearnersdictionaries.com/definition/english/opposed)
 1. (of a person) disagreeing strongly with something and trying to stop it
@@ -16,7 +16,9 @@
   * 200 attended, as opposed to 300 the previous year.
   * This exercise develops suppleness as opposed to (rather than) strength.
 
-  
+## [Hold up](https://github.com/studyindepth/learn-you-some-english/edit/master/day1-oppose-opposite.md)
+1. To remain strong and working effectively
+   * She's holding up well under pressure.
   
   
   
