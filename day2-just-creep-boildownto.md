@@ -8,4 +8,10 @@
   * He said the empty streets creeped him out.
   * It's something that just plain creeps me out.
   
-# [Just /dʒʌst/](http://www.oxfordlearnersdictionaries.com/definition/english/just_1)
+## [Just /dʒʌst/](http://www.oxfordlearnersdictionaries.com/definition/english/just_1)
+
+## [Boil down to something](http://www.oxfordlearnersdictionaries.com/definition/english/boil-down)
+1. To make something, especially information, shorter by leaving out the parts that are not important.
+  * The original speech I had written got boiled down to about ten times. 
+
+
