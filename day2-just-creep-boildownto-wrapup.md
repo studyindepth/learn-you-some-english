@@ -19,3 +19,7 @@
   * That just about wraps it up for today.
   * I will wrap the job up this morning.
   * I can wrap up this little project in a week.
+
+## [Competitive with somebody/something] as good as or better than others
+  * We need to work harder to remain competitive with other companies.
+  * to gain a competitive advantage over **rival** companies.
