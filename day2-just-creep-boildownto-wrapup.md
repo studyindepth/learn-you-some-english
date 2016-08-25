@@ -20,6 +20,7 @@
   * I will wrap the job up this morning.
   * I can wrap up this little project in a week.
 
-## [Competitive with somebody/something](http://www.oxfordlearnersdictionaries.com/definition/english/competitive?q=competitive) as good as or better than others
+## [Competitive with somebody/something](http://www.oxfordlearnersdictionaries.com/definition/english/competitive?q=competitive) 
+1. as good as or better than others
   * We need to work harder to remain competitive with other companies.
   * to gain a competitive advantage over **rival** companies.
