@@ -13,5 +13,8 @@
 ## [Boil down to something](http://www.oxfordlearnersdictionaries.com/definition/english/boil-down)
 1. To make something, especially information, shorter by leaving out the parts that are not important.
   * The original speech I had written got boiled down to about ten times. 
-
-
+## [Wrap up](http://www.oxfordlearnersdictionaries.com/definition/english/wrap-up?q=wrap+up)
+1. To complete something such as an agreement or a meeting in an acceptable way.
+  * That just about wraps it up for today.
+  * I will wrap the job up this morning.
+  * I can wrap up this little project in a week.
