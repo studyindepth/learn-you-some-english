@@ -1,12 +1,12 @@
 ## [handle /ˈhændl/](http://www.oxfordlearnersdictionaries.com/definition/english/handle_1?q=handle)
 
 1. To deal with a situation, a person, an area of work or a strong emotion 
-  * **handle something/somebody** A new man was appointed to handle the crisis.
+  * **handle something/somebody** A new man was [appointed](http://www.oxfordlearnersdictionaries.com/definition/english/appoint#appoint__4) to handle the crisis.
   * She is very good at handling her patients
   
 ## [deal with](http://www.oxfordlearnersdictionaries.com/definition/english/deal-with)
 1. **deal with somebody** To take appropriate action in particular situation or according to who you are talking to, managing, etc.
-  * She is used to dealing with all kinds of people in her job.
+  * She is [used to](http://www.oxfordlearnersdictionaries.com/definition/english/used1) dealing with all kinds of people in her job.
 2. **deal with something** To solve a problem, perform a task, etc.
   * He's at dealing with pressure.
   * to deal with enquiries/issues/complaints
