@@ -5,7 +5,7 @@
   * She is very good at handling her patients
   
 ## [deal with](http://www.oxfordlearnersdictionaries.com/definition/english/deal-with)
-1. **deal with somebody** To take appropriate action in particular situation or according to who you are talking, managing, etc.
+1. **deal with somebody** To take appropriate action in particular situation or according to who you are talking to, managing, etc.
   * She is used to dealing with all kinds of people in her job.
 2. **deal with something** To solve a problem, perform a task, etc.
   * He's at dealing with pressure.
