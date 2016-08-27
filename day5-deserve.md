@@ -10,3 +10,7 @@ the way they have behaved or because of what they are
 * **deverse doing something** Several other points deverse mentioning
 
 ## [worth](http://www.oxfordlearnersdictionaries.com/definition/english/worth_1?q=worth)
+
+## [stand out](http://www.oxfordlearnersdictionaries.com/definition/english/stand-out)
+
+## [stand up for](http://www.oxfordlearnersdictionaries.com/definition/english/stand-up-for)
