@@ -32,3 +32,16 @@ the way they have behaved or because of what they are
   * Always stand up for your friends.
   * You must stand up for your rights.
 
+## [stand for](http://www.oxfordlearnersdictionaries.com/definition/english/stand-for?q=stand+for)
+1. to support something
+  * I hated the organization and all it stood for (the ideas it supported)
+  
+## [stand]
+1. dislike - bear, used in negative sentences and questions to emphasize that you do not like something/somebody
+  * I can't stand his bother.
+  * She couldn't stand being kept awaiting.
+  * I can't stand people keep interupting all the time.
+  
+  
+
+  
