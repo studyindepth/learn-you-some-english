@@ -1,4 +1,4 @@
-## [deserve /dɪˈzɜːv/](http://www.oxfordlearnersdictionaries.com/definition/english/deserve) [|>](http://www.oxfordlearnersdictionaries.com/media/english/uk_pron/d/des/deser/deserve__gb_1.mp3)
+## [deserve /dɪˈzɜːv/](http://www.oxfordlearnersdictionaries.com/definition/english/deserve) 
 1. if somebody/something deserves something, it is right that they should have it because of 
 the way they have behaved or because of what they are  
   * **deserve something** You deserve a rest after all that hard work. 
