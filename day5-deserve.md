@@ -9,8 +9,26 @@ the way they have behaved or because of what they are
   * He deserves to be looked up for ever for what he did
   * **deverse doing something** Several other points deverse mentioning
 
-## [worth](http://www.oxfordlearnersdictionaries.com/definition/english/worth_1?q=worth)
+## [worth /wɜːθ/](http://www.oxfordlearnersdictionaries.com/definition/english/worth_1?q=worth)
+1. used to to recommend the action mentioned because you think it may be useful, enjoyable, etc.
+  * **worth something** The musuem is certainly worth a visit.
+  * **worth doing something** This idea is well worth considering.
+  * It's working making an appointment before you go.
+2. important, good or enjoyable enough to make somebody feel satisfied, espcially when difficulty or effort is involved.
+  * The trip was expensive but it was worth every penny.
+  * The job involves a lot of hard work but it's worth it.
+  * The new house really wasn't worth all the expense involved.
+  * Was it worth the effort?
+3. Having a value in money.
+ * How much is this painting worth? 
 
-## [stand out](http://www.oxfordlearnersdictionaries.com/definition/english/stand-out)
+## [stand out as something](http://www.oxfordlearnersdictionaries.com/definition/english/stand-out)
+1. to be much better or important than somebody/something
+  * Four points stand out as being more most important than the rest.
+  * [Outstadning](http://www.oxfordlearnersdictionaries.com/definition/english/outstanding) 
 
-## [stand up for](http://www.oxfordlearnersdictionaries.com/definition/english/stand-up-for)
+## [stand up for somebody/something](http://www.oxfordlearnersdictionaries.com/definition/english/stand-up-for)
+1. to support or defend somebody/something
+  * Always stand up for your friends.
+  * You must stand up for your rights.
+
