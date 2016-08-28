@@ -36,7 +36,7 @@ the way they have behaved or because of what they are
 1. to support something
   * I hated the organization and all it stood for (the ideas it supported)
   
-## [stand]
+## [stand  /stænd/](http://www.oxfordlearnersdictionaries.com/definition/english/stand_1?q=stand)
 1. dislike - bear, used in negative sentences and questions to emphasize that you do not like something/somebody
   * I can't stand his bother.
   * She couldn't stand being kept awaiting.
