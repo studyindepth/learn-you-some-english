@@ -6,6 +6,9 @@
   * **figure out how, what, etc.** I can't figure out how to do this.
 2. To calculate an amount or cost of something (synonym **work out**)
   * Have you figured out how much the trip will cost.
+3. To develop in a successful way
+ * My job didn't work out.
+ * Things have worked out quite well for us.
 
 ## work out 
 
