@@ -16,3 +16,8 @@
 1. to consider something/somebody in particular way
  * I think of this place as my home.
  * She is thought of as a possible director.
+
+## [think over something](http://www.oxfordlearnersdictionaries.com/definition/english/think-over)
+1. to consider something cafefully, especially before reaching a decision
+ * I've been thinking over what you said.
+ * I'd like more like to think things over.
