@@ -11,3 +11,8 @@
 3. to remmber something/somebody  
   * I can think of at least three occasions when he arrived late.
   * I can't think of her name at the moment.
+   
+## [think of something/somebody as something/somebody](http://www.oxfordlearnersdictionaries.com/definition/english/think-of-as)
+1. to consider something/somebody in particular way
+ * I think of this place as my home.
+ * She is thought of as a possible director.
