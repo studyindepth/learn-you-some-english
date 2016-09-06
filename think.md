@@ -1,6 +1,6 @@
 ## [think  /θɪŋk/] (http://www.oxfordlearnersdictionaries.com/definition/english/think_1?q=think)
 
-## think of
+## [think of](http://www.oxfordlearnersdictionaries.com/definition/english/think-of)
 1. to have an image or idea of something/somebody in your mind.
   * When I said that I was thinking of anyone in particular
 2. to create an idea in your imagination
