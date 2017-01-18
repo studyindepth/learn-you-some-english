@@ -8,3 +8,7 @@
     + We'll let you know if any vacancies come up
   + **come up to somebody**
     + He came up to me and asked me the way to the station
+2. come
+  + **to arrive somewhere in order to do something or get something**
+    + I've come for my book
+    + He came looking for me
