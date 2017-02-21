@@ -8,5 +8,7 @@
   * **to be discovered tobe or prove to be***
   ** The job turned out to be harder than we thought
   ** It turned out that she was a friend of my sister
+3. turn to - go to somebody/something for help, advice, etc.
+  ** He has nobody that she can turn to.
   
   
